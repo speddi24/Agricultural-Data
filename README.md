@@ -1,5 +1,5 @@
 # Agricultural-Data
-Classification of grid cells to determine the yield rate.
+Classification of grid cells to determine the yield rate. Required csv files for years 2013,2015,2016,2017 and 2018 were added to the repository.
 
 Project Statement
 This project is to determine the classification of grid cells within a plot (400x600 meters) and determine if these grids have a low, average, or high yield rate. 
